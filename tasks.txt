@@ -1,0 +1,6 @@
+Work on Python To-Do List:120:A
+Read about Object Oriented Programming and Design Practices:60:A
+Find Investing book to read:20:B
+Workout:60:B
+Read some articles:120:A
+Chill out:15:A
